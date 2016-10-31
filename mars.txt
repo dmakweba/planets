@@ -1,5 +1,12 @@
+# Things I know about Mars.
 1. Very Cold
 2. Far Away
 3. Quite Red
 4. Full of Robots
+5. Dangerous
+
+# Things to take into consideration
+1. Be serious
+2. Understand what you are doing
+3. Implement the learning 
 
